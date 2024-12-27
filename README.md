@@ -11,3 +11,5 @@ Technologies Used
 Frontend: [e.g., React, HTML/CSS]
 API: [e.g., OpenWeatherMap, WeatherAPI]
 Additional Tools: [e.g., Axios, Chart.js, Bootstrap]
+
+![image alt](https://github.com/MalinduOshan/WeatherApp/blob/c2ec610b79becf16679dd0100f2f2e4060b52e54/Screenshot%20(101).png)
